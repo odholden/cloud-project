@@ -9,8 +9,12 @@ Welcome to my incredible cloud project!
 ## Getting Started
 This is how to install my cloud project
 
-## Contents
-This is what is contained in my project
+## Concepts covered
+### AWS Compute
+
+### SQL Databases
+
+### Kubernetes
 
 ## Description
 This is why I built this and what I hope to use it for.
